@@ -17,6 +17,22 @@ body {
   width: 100%;
 }
 
+#panel {
+  width: 320px;
+  height: 50px;
+  background-color: transparent;
+}
+
+#skull {
+  width: 150px;
+  height: 30px;
+  background-color: transparent;
+}
+
+#tip {
+  color: yellow;
+}
+
 .main-container h1 {
   flex: 1;
   text-align: center;
